@@ -168,6 +168,9 @@ div.normal {
     background-color: palevioletred;
 
 }
+div#container {
+    overflow-x: auto;
+}
 main  h2 {
     font-family: var(--fonte-destaque);
     background-image: linear-gradient(to right, #7D8B8F,#B2E2B8);
